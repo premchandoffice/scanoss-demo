@@ -28,7 +28,7 @@ jobs:
         with:
           policies: copyleft, undeclared
           dependencies.enabled: true
-          api-url: <YOUR_API_URL>
+          api-url: https://api.scanoss.com/scan/direct
           api-key: ${{ secrets.SCANOSS_KEY }}
 
 
