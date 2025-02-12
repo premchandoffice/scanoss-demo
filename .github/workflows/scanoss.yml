@@ -29,7 +29,7 @@ jobs:
           policies: copyleft, undeclared
           dependencies.enabled: true
           api-url: <YOUR_API_URL>
-          api-key: ${{ secrets.scanoss_key }}
+          api-key: ${{ secrets.SCANOSS_KEY }}
 
 
       - name: Print stdout scan command
