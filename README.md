@@ -1,4 +1,4 @@
 SCANOSS Demo repository
 =======================
 
-This repository is dedicated to showing SCANOSS features around CI/CD.
+This repository is dedicated to showing OSSKB features using SCANOSS CI/CD technology.
